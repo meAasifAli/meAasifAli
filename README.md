@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meAasifAli/meAasifAli/main/banner.png" alt="Asif Ali – Software Engineer Banner" />
+  <img src="[https://raw.githubusercontent.com/meAasifAli/meAasifAli/main/banner.png](https://i.ibb.co/1f0p8xc/dev-banner-dark.png
+)" alt="Asif Ali – Software Engineer Banner" />
 </p>
 
 <h1 align="center">Asif Ali</h1>
