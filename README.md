@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/meAasifAli/meAasifAli/main/banner.png" alt="Asif Ali – Software Engineer Banner"/>
 </p>
 
-
-
-<h1 align="center">Aasif Ali</h1>
+<h1 align="center">Asif Ali</h1>
 <p align="center">
   <strong>Software Engineer | Full-Stack Developer | Backend Systems Enthusiast</strong><br/>
   Building reliable, scalable, and high-performance digital solutions.
