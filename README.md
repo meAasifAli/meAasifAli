@@ -1,4 +1,12 @@
-<h1 align="center">Asif Ali</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meAasifAli/meAasifAli/main/banner.png" alt="Asif Ali – Software Engineer Banner"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meAasifAli/meAasifAli/main/profile.jpg" width="150" style="border-radius:50%;border:2px solid #555;" alt="Asif Ali"/>
+</p>
+
+<h1 align="center">Aasif Ali</h1>
 <p align="center">
   <strong>Software Engineer | Full-Stack Developer | Backend Systems Enthusiast</strong><br/>
   Building reliable, scalable, and high-performance digital solutions.
@@ -28,7 +36,7 @@ I enjoy working on **end-to-end product engineering**, from UI/UX to core backen
 #### **Backend & Database Engineering**
 - Node.js, Express.js, Golang (learning), REST APIs
 - Authentication (JWT, OAuth), RBAC
-- MongoDB, PostgreSQL, MySQL, Query optimization, Schema design
+- MongoDB, PostgreSQL, MySQL, Query optimization
 
 #### **DevOps, Cloud & Tooling**
 - Docker, Linux, Nginx, CI/CD Workflows, Firebase
@@ -50,13 +58,13 @@ I enjoy working on **end-to-end product engineering**, from UI/UX to core backen
 
 ---
 
-### 📂 Featured Work & Contributions *(add links when public)*
+### 📂 Featured Work & Contributions
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **Mental Well-Being Platform** | Full front-end + backend contribution for a SaaS platform | React, Node.js, Docker, MongoDB |
-| **Secure REST API for Finance Tracker** | Scalable authentication, expense tracking, reporting | Node.js, PostgreSQL, JWT |
-| **Hotel Booking Portal** | Full-stack real-world booking system | Next.js, TypeScript, MongoDB |
-| **Realtime Chat + Call App** *(Work in Progress)* | One-to-one calls + chat using WebRTC | React, WebRTC, Socket.io, Node.js |
+| **Mental Well-Being Platform** | Front-end + backend contributions for a SaaS platform | React, Node.js, Docker, MongoDB |
+| **Finance API Service** | Scalable authentication & analytics engine | Node.js, PostgreSQL, JWT |
+| **Hotel Booking Portal** | Real-world reservation platform | Next.js, TypeScript, MongoDB |
+| **Realtime Chat + Call App** *(Work in Progress)* | Audio + chat using WebRTC | React, WebRTC, Socket.io |
 
 > *More repositories will be made public once refactored and documented professionally.*
 
@@ -71,26 +79,26 @@ I enjoy working on **end-to-end product engineering**, from UI/UX to core backen
 ---
 
 ### 🧠 Engineering Values & Philosophy
-> I believe software development is a craft of clarity, measurable impact, and long-term maintainability. Good engineering prioritizes:
+> I believe software development is a craft of clarity, measurable impact, and long-term maintainability.
+
+Good engineering prioritizes:
 - **Readable and testable code**
 - **Simplicity over complexity**
 - **Architecture that scales with user growth**
-- **Secure data handling & responsible design**
+- **Secure data handling & reliable performance**
 - **Product thinking — not just code output**
 
 ---
 
 ### 🤝 Collaboration & Network
-I actively seek opportunities to collaborate on impactful products and solve real-world problems through engineering. I value teams that practice ownership, transparency, and thoughtful development.
+I seek opportunities to collaborate on impactful products and solve real-world problems through engineering. I value teams that practice ownership, transparency, and thoughtful development.
 
-📌 **LinkedIn:** https://www.linkedin.com/in/meAasifAli 
+📌 **LinkedIn:** https://www.linkedin.com/in/aasif-ali-6909b8200  
 📌 **Twitter:** https://twitter.com/asifalimir18  
 
 ---
 
 ### 📩 Hire / Work With Me
-If you are building a product and need a developer who prioritizes **system reliability, problem-solving, and product outcomes**, feel free to reach out.
+If you’re building a product and need a developer who prioritizes **system reliability, performance, and product outcomes**, feel free to reach out.
 
-> I work best in roles involving:  
-> **Full-Stack Development, Backend Engineering (Node + Go), API Architecture, and Cloud-Productions.**
-
+> Ideal roles: **Full-Stack Development, Backend Engineering (Node + Go), API Architecture, Cloud Deployments.**
