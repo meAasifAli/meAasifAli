@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meAasifAli/meAasifAli/main/banner.png" alt="Asif Ali – Software Engineer Banner"/>
+  <img src="https://raw.githubusercontent.com/meAasifAli/meAasifAli/main/banner.png" alt="Asif Ali – Software Engineer Banner" />
 </p>
 
 <h1 align="center">Asif Ali</h1>
@@ -16,17 +16,17 @@ I am a **Software Engineer** specializing in full-stack product development with
 I enjoy working on **end-to-end product engineering**, from UI/UX to core backend logic, deployments, and optimizations.
 
 ✔ Core Strengths:
-- Building production-grade web & mobile applications  
-- Designing secure, maintainable backend systems  
-- Implementing consistent API standards & documentation  
-- Problem-solving with a product mindset  
+- Building production-grade web & mobile applications
+- Designing secure, maintainable backend systems
+- Implementing consistent API standards & documentation
+- Problem-solving with a product mindset
 
 ---
 
 ### 🛠️ Technical Competencies
 
 #### **Frontend Development**
-- React, TypeScript, Redux, TailwindCSS, Material UI, Zustand  
+- React, TypeScript, Redux, TailwindCSS, Material UI, Zustand
 - Component-driven architecture, state management, performance optimization
 
 #### **Backend & Database Engineering**
@@ -48,9 +48,9 @@ I enjoy working on **end-to-end product engineering**, from UI/UX to core backen
 
 ### 🚀 Current Focus & Interests
 - Advanced **Golang backend development**
-- Building distributed systems and microservice architecture
+- Building distributed systems and microservices
 - Real-time communication (WebRTC, Socket.io)
-- AI/ML as practical feature integrations (not research oriented)
+- AI/ML as practical product features
 
 ---
 
@@ -60,7 +60,7 @@ I enjoy working on **end-to-end product engineering**, from UI/UX to core backen
 | **Mental Well-Being Platform** | Front-end + backend contributions for a SaaS platform | React, Node.js, Docker, MongoDB |
 | **Finance API Service** | Scalable authentication & analytics engine | Node.js, PostgreSQL, JWT |
 | **Hotel Booking Portal** | Real-world reservation platform | Next.js, TypeScript, MongoDB |
-| **Realtime Chat + Call App** *(Work in Progress)* | Audio + chat using WebRTC | React, WebRTC, Socket.io |
+| **Realtime Chat + Call App** *(WIP)* | Audio + chat using WebRTC | React, WebRTC, Socket.io |
 
 > *More repositories will be made public once refactored and documented professionally.*
 
@@ -87,7 +87,7 @@ Good engineering prioritizes:
 ---
 
 ### 🤝 Collaboration & Network
-I seek opportunities to collaborate on impactful products and solve real-world problems through engineering. I value teams that practice ownership, transparency, and thoughtful development.
+Let’s collaborate on products that deliver real-world value. I value thoughtful engineering, clear communication, and ownership in product development.
 
 📌 **LinkedIn:** https://www.linkedin.com/in/aasif-ali-6909b8200  
 📌 **Twitter:** https://twitter.com/asifalimir18  
@@ -95,6 +95,6 @@ I seek opportunities to collaborate on impactful products and solve real-world p
 ---
 
 ### 📩 Hire / Work With Me
-If you’re building a product and need a developer who prioritizes **system reliability, performance, and product outcomes**, feel free to reach out.
+If you’re building a product and need a developer who focuses on **system reliability, performance, and product outcomes**, feel free to reach out.
 
-> Ideal roles: **Full-Stack Development, Backend Engineering (Node + Go), API Architecture, Cloud Deployments.**
+> Ideal roles: **Full-Stack Engineer, Backend Engineer (Node + Go), API Architecture, Cloud Deployments.**
