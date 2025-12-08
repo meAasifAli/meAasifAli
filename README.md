@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="![4884785](https://github.com/user-attachments/assets/0f7d0506-d6ff-4e5d-811a-38ecd8337404)
-" alt="Aasif Ali – Software Engineer Banner" />
-</p>
+
 
 <h1 align="center">Aasif Ali</h1>
 <p align="center">
