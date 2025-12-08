@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/meAasifAli/meAasifAli/main/banner.png" alt="Asif Ali – Software Engineer Banner"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meAasifAli/meAasifAli/main/profile.jpg" width="150" style="border-radius:50%;border:2px solid #555;" alt="Asif Ali"/>
-</p>
+
 
 <h1 align="center">Aasif Ali</h1>
 <p align="center">
