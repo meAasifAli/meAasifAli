@@ -1,69 +1,56 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/aasif-ali-6909b8200/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCsSYDep4mWd9KGgoyObzS0g">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://twitter.com/asifalimir18">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<h1 align="center">
-  Hi, I'm <strong>Asif Ali</strong> 👋 
-</h1>
+<h1 align="center">Asif Ali</h1>
+<p align="center">
+  Software Engineer • Web & Mobile Developer • Backend Enthusiast
+</p>
 
 ---
 
-### 👨‍💻 **About Me**
-I’m a **Web & Mobile App Developer** with a strong interest in **Backend Engineering, Cloud Technologies, and AI/ML applications**. I focus on building **scalable, secure, and user-centric products**.
+### 👨‍💼 About Me
+I am a **Software Engineer** focused on building scalable and reliable applications.  
+My work spans **full-stack development, backend engineering, and cloud technologies**.
 
-- 💼 Currently contributing to full-stack application development.
-- 🌱 Exploring **Golang, Microservices, and Machine Learning**.
-- 🤝 Open to collaborations on real-world projects.
-- 💬 Ask me about **React, MERN, Cloud Deployments, and System Design**.
-- 📫 Reach me on LinkedIn:  
-  [![Linkedin Badge](https://img.shields.io/badge/Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasif-ali-6909b8200)
-
----
-
-### 🛠️ **Tech Stack & Tools**
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" width="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" width="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" width="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" width="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="45"/>&nbsp;
-</div>
+- 🔭 Currently building modern web applications using **React & Node.js**
+- ⚙️ Learning **Golang, Microservices, and Distributed Systems**
+- 💡 Interested in **high-performance backend systems**
+- 🤝 Open to collaboration on impactful products and startup ideas
+- 📫 Connect with me on LinkedIn:  
+  <a href="https://www.linkedin.com/in/aasif-ali-6909b8200">linkedin.com/in/aasif-ali-6909b8200</a>
 
 ---
 
-### 📊 **GitHub Stats**
-<div align="center">
-  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Asif45uaha&theme=dark&background=000000" height="150"/>
+### 🛠️ Technical Skills
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif45uaha&layout=compact&theme=vision-friendly-dark" height="150"/>
+**Frontend**
+- React, TypeScript, Redux, Tailwind, Material UI
 
-</div>
+**Backend & Databases**
+- Node.js, Express.js, Golang, MongoDB, PostgreSQL, MySQL
+
+**DevOps & Tools**
+- Docker, Firebase, Nginx, Git, Linux, AWS/Cloud Basics
+
+**Other Interests**
+- System Design, WebRTC, Clean Architecture, AI/ML (Beginner)
 
 ---
 
-### 🚀 **Work Philosophy**
-> I believe good engineering is driven by **clarity, performance, and collaboration** — not complexity.
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="150" src="http://github-readme-streak-stats.herokuapp.com?user=Asif45uaha&theme=dark&background=0B0B0B"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif45uaha&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
 ---
 
-### 🌟 **Let’s Build Something Together**
-If you have an idea, a startup, or a problem worth solving — feel free to connect.  
-Together, we can build impactful digital products. 🤝✨
+### 💼 Professional Values
+> I prioritize **clarity, performance, and maintainability** over unnecessary complexity. I believe software should be built with **strong fundamentals, measurable impact, and long-term scalability**.
+
+---
+
+### 🤝 Let’s Connect
+If you’re working on something meaningful or innovative, feel free to reach out.  
+I enjoy collaborating on projects that solve real problems and create value.
+
+📌 **LinkedIn:** <a href="https://www.linkedin.com/in/aasif-ali-6909b8200">Aasif Ali</a>  
+📌 **Twitter:** <a href="https://twitter.com/asifalimir18">@asifalimir18</a>  
