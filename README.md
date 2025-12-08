@@ -71,7 +71,7 @@ I enjoy working on **end-to-end product engineering**, from UI/UX to core backen
 ### 📊 GitHub Analytics
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=meAasifAli&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meAasifAli&layout=compact&theme=transparent" />
+
 </p>
 
 ---
